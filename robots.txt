@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefofeirie.cgztkc.com/sitemap.xml
